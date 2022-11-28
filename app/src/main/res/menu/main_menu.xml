@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu3"
+        android:title="Danh sách nhiệm vụ"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu4"
+        android:title="Thêm rất nhiều"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu5"
+        android:title="Loại bỏ quảng cáo"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu6"
+        android:title="Ứng dụng nhiều hơn"
+        app:showAsAction="never" />
+</menu>

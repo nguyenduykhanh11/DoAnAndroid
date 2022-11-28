@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/drawable-v24/ic_location.xml" value="0.1625" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/drawable/bg_bottom.xml" value="0.1405" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/drawable/bg_color_long_click_item.xml" value="0.1765" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/drawable/bg_color_nomal.xml" value="0.1625" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/drawable/bg_drawer_layout.xml" value="0.123" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/drawable/bg_form_login.xml" value="0.1395" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/drawable/ic_add.xml" value="0.1595" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/drawable/ic_category_list.xml" value="0.2115" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/drawable/ic_login.xml" value="0.109" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout-v26/fragment_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/activity_profile.xml" value="0.23854166666666668" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/bottom_appbar.xml" value="0.2956204379562044" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/drawer_infomation.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/fragment_add.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/fragment_list_data.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/fragment_login.xml" value="0.176" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/fragment_profile.xml" value="0.2421875" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/fragment_registe.xml" value="0.2421875" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/fragment_register.xml" value="0.2421875" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/fragment_update.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/fragment_update_profile.xml" value="0.2421875" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/list_data_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/menu/add_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/menu/loop_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/menu/main_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/menu/menu_long_item.xml" value="0.12" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/menu/nav_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/doAnAdroid/app/src/main/res/menu/update_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

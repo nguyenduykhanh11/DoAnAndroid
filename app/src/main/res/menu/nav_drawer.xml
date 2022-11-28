@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/danh_muc">
+        <menu>
+            <item
+                android:id="@+id/sub_list_all"
+                android:title="@string/list_all"
+                android:icon="@drawable/ic_home"/>
+            <item
+                android:id="@+id/sub_default"
+                android:title="@string/defaul_t"
+                android:icon="@drawable/ic_category_list"/>
+            <item
+                android:id="@+id/sub_individual"
+                android:title="@string/individual"
+                android:icon="@drawable/ic_category_list"/>
+            <item
+                android:id="@+id/sub_work"
+                android:title="@string/work"
+                android:icon="@drawable/ic_category_list"/>
+            <item
+                android:id="@+id/sub_shopping"
+                android:title="@string/shopping"
+                android:icon="@drawable/ic_category_list"/>
+            <item
+                android:id="@+id/sub_complete"
+                android:title="@string/complete"
+                android:icon="@drawable/ic_complete"/>
+        </menu>
+    </item>
+    <item android:title="@string/tai_khaon">
+        <menu>
+            <item
+                android:id="@+id/sub_profile"
+                android:title="@string/profile"
+                android:icon="@drawable/ic_people"/>
+            <item
+                android:id="@+id/sub_login"
+                android:title="@string/login"
+                android:icon="@drawable/ic_login"/>
+            <item
+                android:id="@+id/sub_logout"
+                android:title="@string/logout"
+                android:icon="@drawable/ic_logout24"/>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Danh Sách Cần Làm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_mission">Nhiệm vụ nhập đây</string>
+    <string name="nhiem_vu_add">Là những gì được thực hiện?</string>
+    <string name="tv_ngay_dao_han">Ngày đáo hạn</string>
+    <string name="hin_watch">Không giờ (Cả ngày)</string>
+    <string name="khong_co_ngay">Không có ngày</string>
+    <string name="tv_add_list">Thêm vào danh sách</string>
+    <string name="nomal">Mặc định</string>
+
+    <string name="open_drawer">Open Drawer </string>
+    <string name="close_drawer">Close Drawer </string>
+
+    <string name="name_drawer">Nguyễn Duy Khánh</string>
+    <string name="list_all">Danh sách tất cả</string>
+    <string name="defaul_t">Mặc định</string>
+    <string name="individual">Cá nhân</string>
+    <string name="work">Làm việc</string>
+    <string name="shopping">Mua sắm</string>
+    <string name="complete">Hoàn thành</string>
+    <string name="danh_muc">DANH MỤC</string>
+    <string name="delete">delete</string>
+    <string name="share">share</string>
+    <string name="checkbox_complete">checkbox_complete</string>
+    <string name="checkbox">checkbox</string>
+
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="birthday">Birthday</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="password">Password</string>
+    <string name="welcome_todolist">Welcome ToDoList</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up"> Sign up</string>
+    <string name="tai_khaon">TÀI KHOẢN</string>
+    <string name="login">Đăng Nhập</string>
+    <string name="profile">Thông tin tài khoản</string>
+    <string name="register">Đăng Ký</string>
+    <string name="logout">Đăng Xuất</string>
+    <string name="ch_n_ng_y">Chọn Ngày</string>
+    <string name="ch_n_th_i_gian">Chọn Thời gian</string>
+    <string name="nh_p_nhi_m_v">Nhập nhiệm vụ</string>
+    <string name="m_c_nh">Mặc Định</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="full_name">Full name</string>
+    <string name="update">Cập nhật</string>
+    <string name="old_password">old password</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/listDataFragment">
+
+    <fragment
+        android:id="@+id/listDataFragment"
+        android:name="com.example.doanadroid.ui.fragment.ListDataFragment"
+        android:label=""
+        tools:layout="@layout/fragment_list_data" >
+
+        <action
+            android:id="@+id/action_listDataFragment_to_updateFragment2"
+            app:destination="@id/updateFragment" />
+        <action
+            android:id="@+id/action_listDataFragment_to_addFragment2"
+            app:destination="@id/addFragment"
+            app:popUpTo="@+id/listDataFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/addFragment"
+        android:name="com.example.doanadroid.ui.fragment.AddFragment"
+        android:label="Thêm nhiệm vụ"
+        tools:layout="@layout/fragment_add" />
+    <fragment
+        android:id="@+id/updateFragment"
+        android:name="com.example.doanadroid.ui.fragment.UpdateFragment"
+        android:label="Sữa nhiệm vụ"
+        tools:layout="@layout/fragment_update" />
+</navigation>

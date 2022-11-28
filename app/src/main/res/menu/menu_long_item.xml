@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView">
+    </item>
+    <item
+        android:id="@+id/menu_checkbox"
+        android:title="@string/checkbox"
+        android:visible="false"
+        android:icon="@drawable/ic_checkbox"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_checkbox_complete"
+        android:title="@string/checkbox_complete"
+        android:visible="false"
+        android:icon="@drawable/ic_checkbox_complete"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_share"
+        android:title="@string/share"
+        android:visible="false"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_delete"
+        android:title="@string/delete"
+        android:visible="false"
+        android:icon="@drawable/ic_delete"
+        app:showAsAction="always"/>
+</menu>
